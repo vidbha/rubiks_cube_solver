@@ -37,7 +37,7 @@ Make sure `Databases/cornerDepth5V1.txt` is present. This file is the precompute
 ## Usage
 
 ```bash
-./rubiks_cube_solver
+./rubiks_cube_solver WWWWWWWWWGGGRRRBBBYYYOOOGGGRRRBBBYYYOOOGGGRRRBBBYYYOOO
 ```
 
 Generates a random scramble (13 moves), displays the cube state, and solves it using IDA* (default). Example output:
