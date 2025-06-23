@@ -63,8 +63,3 @@ Contributions and feedback are welcome!
 
 This is an educational showcase of Rubik’s Cube solving via search algorithms. Extend it with larger heuristics, performance benchmarks, or visualization tools.
 
-## References
-- Standard AI search techniques ([Wikipedia](https://en.wikipedia.org/wiki/Heuristic_search), [GeeksforGeeks](https://www.geeksforgeeks.org))
-- Pattern database methods ([Columbia University](https://www.cs.columbia.edu))
-- Rubik’s Cube background ([Wikipedia](https://en.wikipedia.org/wiki/Rubik%27s_Cube))
-
